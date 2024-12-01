@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "433503068234",
+    "project_id": "appabsensisiswa-dbf30",
+    "storage_bucket": "appabsensisiswa-dbf30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433503068234:android:0aa8a6db2e540d0e8c46b3",
+        "android_client_info": {
+          "package_name": "com.absensi.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLLNmKmhr8EG0efFAHcySdqtJP7yB_wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433503068234:android:ad3637038e449a008c46b3",
+        "android_client_info": {
+          "package_name": "com.example.flutter_crud_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfLLNmKmhr8EG0efFAHcySdqtJP7yB_wI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
